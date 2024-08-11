@@ -19,7 +19,7 @@ The dashboard utilizes the following data sources:
 ## Getting Started
 To explore the HR Attrition Dashboard, follow these steps:
 
-1. Download the Power BI File: Access the .pbix file from https://github.com/Arpit-Mishra19/HR-Attrition-Analysis/new/main?filename=README.md .
+1. Download the Power BI File: Access the .pbix file from https://github.com/Arpit-Mishra19/HR-Attrition-Analysis/blob/main/attrition.pbix .
 2. Open the File: Launch Power BI Desktop and open the downloaded .pbix file.
 3. Explore the Dashboard: Use the interactive elements, such as filters and slicers, to explore the data and gain insights.
 4. Customize Views: Adjust filters to view specific segments or time periods relevant to your analysis.
